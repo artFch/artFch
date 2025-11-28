@@ -87,10 +87,6 @@ I'm an ML Engineer with 3+ years of production experience across fintech, SaaS, 
 - Data Pipelines: ETL with Airflow, SQL optimization
 - A/B Testing: Statistical testing, metric analysis
 
-### 📈 GitHub Stats
-
-![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=artfch&show_icons=true&theme=radical)
-
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/artemfilichev)

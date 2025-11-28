@@ -89,7 +89,7 @@ I'm an ML Engineer with 3+ years of production experience across fintech, SaaS, 
 
 ### 📈 GitHub Stats
 
-![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Artem's GitHub stats](https://github-readme-stats.vercel.app/api?username=artfch&show_icons=true&theme=radical)
 
 ### 📫 Let's Connect
 
